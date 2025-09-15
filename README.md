@@ -44,7 +44,7 @@ Fusion 360 source:
 - [Cable clip](model/CableClip-4U.stl)
 - [Antenna clip](model/AntennaClip-4U.stl)
 
-## Example Prints
+## Examples
 
 ![Orange Pi Zero 3 Cluster Enclosure](img/02.jpg)
 
