@@ -4,7 +4,7 @@ A 3D-printed, stackable enclosure to organize Orange Pi Zero 3 boards into a nea
 
 ## Overview
 
-This project provides STL files for a simple enclosure that holds multiple Orange Pi Zero 3 boards in a compact cluster.
+This project provides models for a simple enclosure that holds multiple Orange Pi Zero 3 boards in a compact cluster.
 
 It's designed to be easy to print, assemble, and scale while keeping ports accessible and cables manageable.
 
@@ -60,6 +60,10 @@ Fusion 360 source:
 
 ![Orange Pi Zero 3 Cluster Enclosure](img/08.png)
 
+## See also
+
+- [Project on Thingiverse](https://www.thingiverse.com/thing:7146182).
+- [Project on Printables](https://www.printables.com/model/1415194-orange-pi-zero-3-cluster-enclosure).
 
 ## Authors
 
